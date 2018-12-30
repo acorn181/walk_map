@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:WalkMap.xcodeproj">
+      location = "group:../../../Desktop/mapsdk_ios/YMap/YMapKit.framework">
+   </FileRef>
+   <FileRef
+      location = "self:">
    </FileRef>
 </Workspace>
